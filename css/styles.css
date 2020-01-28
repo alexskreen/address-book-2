@@ -1,3 +1,7 @@
 #show-contact {
   display: none;
 }
+
+body {
+  max-width: 90%;
+}
